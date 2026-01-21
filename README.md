@@ -1,11 +1,18 @@
 Data is the language of decision-making, and here is my background.
+
 I am an Industrial Engineer, IT Technologist, and Data Analyst with prior experience in the electronics manufacturing industry, where I provided solutions to process flow challenges, workload balancing, capacity analysis, plant layout design, and the setup of high‑technology production lines.
+
 I have worked extensively with large datasets using Excel and Google Sheets, as well as Python, Pandas, and SQL, supporting my transition into data‑focused roles.
 I maintain direct communication with suppliers and engineering departments involved in project development at Flex, where I actively participate in decision‑making processes that help position the company as the world’s most trusted partner in technology, supply chain, and advanced manufacturing solutions—creating exceptional products with a positive global impact.
+
 I work with and apply tools and methodologies such as Lean Manufacturing, AutoCAD, SolidWorks, C++, Python, SQL, IT systems, automation, pneumatics, hydraulics, finance, sales, and the design of multiple environments including parts, plants, production lines, technical drawings, and 3D printing.
+
 I graduated from the Centro de Enseñanza Técnica Industrial (CETI) with degrees in Industrial Engineering (specializing in instrumentation and process control) and Information Technology and Computing (specializing in network systems).
 Additionally, I am a Data Analyst Bootcamp student at TripleTen Latam, where I am developing skills to transform data into actionable insights using tools such as SQL, Power BI, advanced Excel, Python, Pandas, Artificial Intelligence, Tableau, storytelling, and Business Intelligence, working with real datasets and strategic reports.
+
 Learning never truly ends, and I continuously stay up to date through research and active development of personal projects.
 Some of my projects integrate C++ and Python programming, electronic automation within my community and home, aiming to improve quality of life through technology, data, and security.
+
 I also develop 3D design projects, adapting products to different needs and printing with technical, aesthetic, and advanced materials. In my free time, I enjoy spending time with loved ones, traveling, and cooking.
+
 I am always open to new opportunities and professional connections.
